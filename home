@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>팀 뉴비게임컴퍼니 공식 웹사이트</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+  <meta name="description" content="팀 뉴비게임컴퍼니 공식 웹사이트 - 게임업계의 혁신을 만드는 Next Generation Creators">
+  <meta property="og:title" content="팀 뉴비게임컴퍼니 공식 웹사이트">
+  <meta property="og:description" content="게임업계의 혁신을 불러오는 Next Generation Creators">
+  <meta property="og:image" content="assets/img/og-image.png">
+  <meta property="og:type" content="website">
+</head>
+<body>
+  <!-- 네비게이션 -->
+  <header>
+    <nav>
+      <h1 class="logo">TEAM NGC</h1>
+      <ul class="nav-links">
+        <li><a href="index.html" class="active">홈</a></li>
+        <li><a href="about.html">팀 소개</a></li>
+        <li><a href="projects.html">프로젝트</a></li>
+        <li><a href="contact.html">연락처</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- 메인 -->
+  <section class="hero">
+    <h2>Next Generation Creators</h2>
+    <p>
+      팀 뉴비게임컴퍼니에 오신 것을 환영합니다.<br>
+      저희는 게임 업계에 혁신을 불러오고 싶은 팀입니다.
+    </p>
+    <a href="about.html" class="btn">더 알아보기</a>
+  </section>
+
+  <!-- 프로젝트 소개 -->
+  <section class="projects">
+    <h2>주요 프로젝트</h2>
+    <div class="project-grid">
+      <div class="project-card">
+        <img src="assets/img/project1.png" alt="Project 1">
+        <h3>Pr_99</h3>
+        <p>2027년 출시 예정. 정확한 정보는 아직 비밀 🤫</p>
+      </div>
+      <div class="project-card">
+        <img src="assets/img/project2.png" alt="Project 2">
+        <h3>Project Beta</h3>
+        <p>팀 협업 툴 개발 프로젝트</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- 푸터 -->
+  <footer>
+    <p>© 2025 StudioNGC. All Rights Reserved.</p>
+  </footer>
+</body>
+</html>
